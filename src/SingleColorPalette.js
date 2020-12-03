@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import { withStyles } from "@material-ui/styles";
 import Navbar from "./Navbar";
-import ColorBox from "./ColorBox";
+import ColorBox from "./colorBox";
 import PaletteFooter from "./PaletteFooter";
 import styles from "./styles/PaletteStyles";
 
